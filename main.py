@@ -1,3 +1,6 @@
+import practise
+
+
 def calculateNumbers(num1, num2):
     return num1 + num2
 
@@ -80,3 +83,5 @@ item = list(map(int, input("Enter the array : ").split()))
 print(item)
 item.sort()
 print(item)
+
+object = practise
