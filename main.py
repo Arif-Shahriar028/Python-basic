@@ -1,4 +1,5 @@
 import practise
+import tab2
 
 
 def calculateNumbers(num1, num2):
@@ -84,4 +85,6 @@ print(item)
 item.sort()
 print(item)
 
-object = practise
+obj = Class1()
+
+
